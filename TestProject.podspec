@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   DESC
   s.homepage     = "git@github.com:nov-/TestProject.git"
   s.license      = { :type => "MIT", :file => "LICENSE" }
-  s.author             = { "Yuoriy" => "yuriy@themindstudios.com" }
+  s.author             = { "Yuriy" => "yuriy@themindstudios.com" }
   s.social_media_url   = ""
   s.ios.deployment_target = "8.0"
   s.osx.deployment_target = "10.9"
